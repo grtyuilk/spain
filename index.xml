@@ -2,8 +2,8 @@
  
 <item>
 <title>Canales Online</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://github.com/masmm/spain/blob/master/icon.png</thumbnail>
+<fanart>https://github.com/masmm/spain/blob/master/fanart.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/masmm/spain/master/test1.xml</externallink>
 </item>
